@@ -29,7 +29,7 @@ ALLOWED_HOSTS = [
     'backend',
     'localhost',
     '3.231.224.135',
-    'ec2-3-231-230-226.compute-1.amazonaws.com',
+    'ec2-3-231-224-135.compute-1.amazonaws.com',
     '127.0.0.1'
 ]
 
