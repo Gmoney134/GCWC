@@ -27,7 +27,10 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'backend',
-    'localhost'
+    'localhost',
+    '3.231.230.226',
+    'ec2-3-231-230-226.compute-1.amazonaws.com',
+    '127.0.0.1'
 ]
 
 
