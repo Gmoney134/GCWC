@@ -33,6 +33,8 @@ ALLOWED_HOSTS = [
     '127.0.0.1',
     '98.80.101.18',
     'ec2-98-80-101-18.compute-1.amazonaws.com'
+    '3.235.193.109',
+    'ec2-3-235-193-109.compute-1.amazonaws.com'
 ]
 
 
